@@ -10,4 +10,3 @@ source venv/bin/activate
 pip install firebase-admin
 python fb-realtime-db-demo.py
 ```
-
